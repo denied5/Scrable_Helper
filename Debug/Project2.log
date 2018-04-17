@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\udav\google диск\cs50\lib\project2\project2\source.cpp(198): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\udav\google диск\cs50\lib\project2\project2\source.cpp(202): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\udav\google диск\cs50\lib\project2\project2\source.cpp(213): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\udav\google диск\cs50\lib\project2\project2\source.cpp(386): warning C4018: <: несоответствие типов со знаком и без знака
+  Project2.vcxproj -> C:\Users\UDAV\Google Диск\CS50\lib\Project2\Debug\Project2.exe
